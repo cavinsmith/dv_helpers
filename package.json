@@ -2,9 +2,9 @@
   "name": "dv_helpers",
   "version": "1.0.0",
   "description": "node.js helpers",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --use_strict test.js -R nyan"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Divere/dv_helpers/issues"
   },
-  "homepage": "https://github.com/Divere/dv_helpers#readme"
+  "homepage": "https://github.com/Divere/dv_helpers#readme",
+  "dependencies": {
+    "mocha": "^2.4.5",
+    "winston": "^2.2.0",
+    "winston-logstash": "^0.2.11"
+  }
 }
