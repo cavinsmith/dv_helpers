@@ -1,0 +1,19 @@
+{
+  "name": "dv_helpers",
+  "version": "1.0.0",
+  "description": "node.js helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Divere/dv_helpers.git"
+  },
+  "author": "Divere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Divere/dv_helpers/issues"
+  },
+  "homepage": "https://github.com/Divere/dv_helpers#readme"
+}
