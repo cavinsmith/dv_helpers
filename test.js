@@ -46,6 +46,14 @@ describe('Logger', () => {
     });
 });
 
+describe('App', () =>
+{
+   it('should instantiate App', () => {
+      var app = new App();
+   });
+});
+
+
 describe('BaseHttpClient', () => {
     var client_api = {
             https: false,
