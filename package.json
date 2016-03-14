@@ -25,6 +25,7 @@
     "pg": "^4.5.1",
     "pg-hstore": "^2.3.2",
     "sequelize": "^3.19.3",
+    "sequelize-cli": "^2.3.1",
     "should": "^8.2.2",
     "winston": "^2.2.0",
     "winston-logstash": "^0.2.11"
