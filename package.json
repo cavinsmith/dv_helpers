@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Divere/dv_helpers#readme",
   "dependencies": {
-    "body-parser": "^1.15.0",
+    "body-parser": "^1.15.2",
     "config": "^1.19.0",
-    "express": "^4.13.4",
+    "express": "^4.14.0",
     "mocha": "^2.4.5",
     "morgan": "^1.7.0",
     "pg": "^4.5.1",
